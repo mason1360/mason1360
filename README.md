@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Mason 👋
 
-<!--
-**mason1360/mason1360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student at **El Camino College**, learning **Computer Information Systems** with a growing focus on **Cybersecurity**, **Python programming**, and **IT fundamentals**.
 
-Here are some ideas to get you started:
+I enjoy building small, practical projects to strengthen my understanding of programming concepts and system operations. My GitHub is where I document my progress, practice, and mini-projects as I move toward a career in technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Technologies & Tools I’m Learning
+- Python (functions, loops, conditions, file I/O)
+- Git & GitHub (version control)
+- Terminal / Bash basics
+- Cybersecurity fundamentals (SOC basics, security concepts)
+- IT support skills (Help Desk fundamentals)
+
+---
+
+## 📚 Current Learning Path
+- Python basics → mini projects  
+- Git & GitHub version control  
+- CIS classes at El Camino College  
+- Beginning cybersecurity concepts  
+- Building personal projects toward an IT / Cybersecurity role  
+
+---
+
+## 🧪 Featured Project
+### **python-practice**
+A collection of small Python exercises and mini-projects, including:
+- Basic arithmetic operations  
+- Conditions and loops  
+- Functions and simple scripts  
+- A command-line to-do app  
+- A console calculator  
+
+👉 Check it out here:  
+https://github.com/mason1360/python-practice
+
+---
+
+## 📩 Connect
+- **LinkedIn:** https://www.linkedin.com/in/mason-eslami
+- **GitHub:** https://github.com/mason1360  
+
+---
+
+### ⭐ My Goal
+To build a strong foundation in Python, IT, and Cybersecurity — one small project at a time.
